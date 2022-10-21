@@ -1,14 +1,10 @@
-#include <stdio.h>                                                                                                                                                               
-
-#include <stdlib.h>                                                                                                                                                              
-
-#include <time.h>                                                                                                                                                                
-
-/**                                                                                                                                                                              
+#include <stdio.h>                                               
+#include <stdlib.h>                                               
+#include <time.h>                                                                                                                   
+/**                                                             
 * main-program entry point.                                                                                                                                                      
 * Return:0-no error,non zero value if error.                                                                                                                                     
-**/                                                                                                                                                                              
-
+*/                                                                                                                                                         
 int main(void)                                                                                                                                                                   
 
 {                                                                                                                                                                                
