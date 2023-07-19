@@ -1,2 +1,3 @@
-Search Algorithms #AUTHOR Nancy Awa 
-awanancy05@gmail.com
+Search Algorithms
+#AUTHOR
+Umar Faruq Adam <umarfaruqadam03@gmail.com>
